@@ -26885,7 +26885,7 @@ _.N$=d
 _.aj$=_.ai$=0},
 Tf:function Tf(){},
 aQ6(){var s=t.N,r=t.z
-return new A.q6(A.X(["/home",A.X(["builder",new A.abs(),"barIndex",0,"barPage",!0],s,r),"/train_calender",A.X(["builder",new A.abt(),"barIndex",2,"barPage",!0],s,r),"/settings",A.X(["builder",new A.abu(),"barIndex",3,"barPage",!0],s,r),"/live_ranking",A.X(["builder",new A.abv(),"barIndex",1,"barPage",!0],s,r),"/results",A.X(["builder",new A.abw(),"barIndex",1,"barPage",!0],s,r),"/zettel",A.X(["builder",new A.abx(),"barIndex",1,"barPage",!0],s,r),"/notes",A.X(["builder",new A.aby()],s,r)],s,t.a),$.ah())},
+return new A.q6(A.X(["/home",A.X(["builder",new A.abs(),"barIndex",0,"barPage",!0],s,r),"/train_calendar",A.X(["builder",new A.abt(),"barIndex",2,"barPage",!0],s,r),"/settings",A.X(["builder",new A.abu(),"barIndex",3,"barPage",!0],s,r),"/live_ranking",A.X(["builder",new A.abv(),"barIndex",1,"barPage",!0],s,r),"/results",A.X(["builder",new A.abw(),"barIndex",1,"barPage",!0],s,r),"/zettel",A.X(["builder",new A.abx(),"barIndex",1,"barPage",!0],s,r),"/notes",A.X(["builder",new A.aby()],s,r)],s,t.a),$.ah())},
 q6:function q6(a,b){var _=this
 _.a="/home"
 _.b=0
